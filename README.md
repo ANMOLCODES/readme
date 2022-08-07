@@ -1,28 +1,28 @@
-### Hi there 👋, I'm Harsh!
+### Hi there 👋, I'm Anmol!
 
 
 
-<a href="https://www.linkedin.com/in/harsh-ghodkar/" target="_blank">
+<a href="https://www.linkedin.com/in/0xanmol/" target="_blank">
   <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
 </a>
 
-<a href="https://twitter.com/harsh_ghodkar" target="_blank">
+<a href="https://twitter.com/0xanmol" target="_blank">
   <img  align="left" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
 </a>
 
-<a href="mailto:harshghodkar@gmail.com">
+<a href="mailto:mr.anmolarora@outlook.com">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
-<a href="https://www.codechef.com/users/saviour1001" target="_blank">
+<!-- <a href="https://www.codechef.com/users/saviour1001" target="_blank">
   <img align="left" width="26px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
-</a>
+</a> -->
 
-<a href="https://leetcode.com/harshghodkar/" target="_blank">
+<!-- <a href="https://leetcode.com/harshghodkar/" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-</a>
+</a> -->
 
-<a href="https://9yearoldtechkid.medium.com/" target="_blank">
+<a href="https://medium.com/@0xblocktrain" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
@@ -34,15 +34,15 @@
 
 ### About Me 🚀
 
-I am a coder who loves to think solutions out of thin air. I enjoy learning about and working on Blockchain technology.I also have a knack for competitive coding and Open Source. 
+An average human that refuses to give up | Delusional optimist
 
-- ⚡ Fun fact: I love playing chess. So if you up for a game send me request at <a href="https://www.chess.com/member/saviour1001" target="_blank">Saviour1001</a>.
+- ⚡ Fun fact: I lost 46kgs in 1.5 years!
 
 ### 🔭 I’m currently working on
 
 - Building [Blocktrain](https://blocktrain.info/)
 
-- Managing [GirlScript Summer of Code 2022](http://gssoc.girlscript.tech/) 
+- Smart Contracts [Swaraj Projekt](http://swaraj.art/) 
 
 - Participating in various Hackathons to BUIDL dApps.
 
@@ -220,9 +220,9 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 <br>
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saviour1001&show_icons=true&theme=radical)
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANMOLCODES&show_icons=true&theme=radical)
 
-![Harsh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Saviour1001&theme=blue-green)
+![Anmol's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ANMOLCODES&theme=blue-green)
 
 
 
